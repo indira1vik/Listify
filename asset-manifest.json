@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/listify/static/css/main.c124b6f8.css",
+    "main.js": "/listify/static/js/main.c237878c.js",
+    "static/js/787.ed98231f.chunk.js": "/listify/static/js/787.ed98231f.chunk.js",
+    "static/media/task.png": "/listify/static/media/task.ae62621237d863a267e9.png",
+    "index.html": "/listify/index.html",
+    "main.c124b6f8.css.map": "/listify/static/css/main.c124b6f8.css.map",
+    "main.c237878c.js.map": "/listify/static/js/main.c237878c.js.map",
+    "787.ed98231f.chunk.js.map": "/listify/static/js/787.ed98231f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c124b6f8.css",
+    "static/js/main.c237878c.js"
+  ]
+}
